@@ -2,7 +2,9 @@ inicio de archivo2
 demo
 linea 3
 linea 4
+LINEA ENTREMEDIO 
 LINEA 5
 LINEA 6
 ESTO ES NUEVO 7
 YA CAMBIO EL ARCHIVO
+LINEA 10
