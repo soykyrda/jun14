@@ -2,3 +2,5 @@ inicio de archivo2
 demo
 linea 3
 linea 4
+LINEA 5
+LINEA 6
