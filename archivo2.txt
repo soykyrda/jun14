@@ -1,0 +1,4 @@
+inicio de archivo2
+demo
+linea 3
+linea 4
